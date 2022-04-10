@@ -1,0 +1,35 @@
+/* *****  TAG SELECTORS  ***** */
+
+/* ***** CLASS SELECTORS ***** */
+
+
+.header {
+    height: 100px;
+    width: 100%;
+}
+
+.footer {
+    height: 100px;
+    width: 100%;
+}
+.color1 {
+    color: #2C3F50;
+}
+.color2 {
+    color: #E84C3D;
+}
+.color3 {
+    color: #ECF0F1;
+}
+.color4 {
+    color: #3297DB;
+}
+.color5 {
+    color: #060606;
+}
+
+
+
+
+
+/* *****   ID SELECTORS  ***** */

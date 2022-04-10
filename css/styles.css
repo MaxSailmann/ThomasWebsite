@@ -1,31 +1,63 @@
 /* *****  TAG SELECTORS  ***** */
+body {
+    background-color: #2C3F50;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+h1 {
+    font-size: 3rem;
+}
 
 /* ***** CLASS SELECTORS ***** */
 
-
 .header {
-    height: 100px;
+    background-color: #ECF0F1;
+    position: fixed;
+    text-align: center;
+    top: 0;
     width: 100%;
 }
+
 
 .footer {
-    height: 100px;
+    background-color: #E84C3D;
+    bottom: 0;
+    padding-top: 10px;
+    position: fixed;
+    text-align: center;
     width: 100%;
 }
+
+.footer-links {
+    color: #ECF0F1;
+    font-size: large;
+    margin: 0 25px;
+    text-decoration: none;
+}
+
+.footer-links:hover {
+    color: #2C3F50
+}
+
+.copy-right {
+    color: #ECF0F1;
+    font-size: small;
+}
 .color1 {
-    color: #2C3F50;
+    background-color: #2C3F50;
 }
 .color2 {
-    color: #E84C3D;
+    background-color: #E84C3D;
 }
 .color3 {
-    color: #ECF0F1;
+    background-color: #ECF0F1;
 }
 .color4 {
-    color: #3297DB;
+    background-color: #3297DB;
 }
 .color5 {
-    color: #060606;
+    background-color: #060606;
 }
 
 
